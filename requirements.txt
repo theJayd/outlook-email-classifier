@@ -1,0 +1,12 @@
+flask
+numpy
+pandas
+scikit-learn
+joblib
+beautifulsoup4
+nltk
+wordcloud
+gunicorn
+email
+string
+re
